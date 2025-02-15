@@ -1,4 +1,9 @@
+.logo {
 
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35.57px;
+}
 .footer {
     background-color:bg-dark;
     padding: 20px;
